@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+@font-face{
+	font-family: awesome;
+	src: url(../Brotherina.otf);
+}
+
+h1{
+	color: darkblue;
+	font-family: awesome;
+	font-size: 50px;
+}
+
+nav{
+	display: block;
+	text-align:center;
+}
